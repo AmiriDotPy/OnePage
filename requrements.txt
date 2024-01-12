@@ -1,7 +1,0 @@
-Package  Version
--------- -------
-asgiref  
-Django   4.2.9
-pip      
-sqlparse 
-tzdata   
